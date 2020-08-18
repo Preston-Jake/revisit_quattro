@@ -1,3 +1,49 @@
+@font-face {
+  font-family: 'KickFont';
+  src: local('KickFont'), url(./fonts/KickTheFont-Bold\ final.ttf);
+}
+
+@font-face {
+  font-family: 'Slurp';
+  src: local('Slurp'), url(./fonts/Slurp.ttf);
+}
+@font-face {
+  font-family: 'Onky';
+  src: local('Onky'), url(./fonts/Onky.ttf);
+}
+@font-face {
+  font-family: 'Tresdias';
+  src: local('Tresdias'), url(./fonts/Tresdias\ Black.otf);
+}
+
+@font-face {
+  font-family: 'Ronduit';
+  src: local('Ronduit'), url(./fonts/Ronduit.otf);
+}
+@font-face {
+  font-family: 'Xeno';
+  src: local('Xeno'), url(./fonts/Xeno.ttf);
+}
+@font-face {
+  font-family: 'Raleway';
+  src: local('Raleway'), url(./fonts/raleway_thin-webfont.ttf);
+}
+@font-face {
+  font-family: 'Chev';
+  src: local('Chev'), url(./fonts/Chekhovskoy.ttf);
+}
+
+@font-face {
+  font-family: 'Confidential';
+  src: local('Confidential'), url(./fonts/Confinental\ FREE.ttf);
+}
+
+@font-face {
+  font-family: 'Champagne';
+  src: local('Champagne'), url(./fonts/Champagne\ &\ Limousines.ttf);
+}
+
+
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
